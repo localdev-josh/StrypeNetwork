@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704441294662",
+    "firebase_url": "https://strype-15c7a.firebaseio.com",
+    "project_id": "strype-15c7a",
+    "storage_bucket": "strype-15c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704441294662:android:a74e90e7b7acab71f84f47",
+        "android_client_info": {
+          "package_name": "com.example.strype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704441294662-9h2vdqm2kjhr2sd72ir8gk8j69un19qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.strype",
+            "certificate_hash": "513e017faf6350c833cc955cfcb1d2e43e8debeb"
+          }
+        },
+        {
+          "client_id": "704441294662-lo58qog4n3kp571far4j2nnp3fbrjoc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_q2vncYk5lQf4n01XKucHAmlSX4gQvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704441294662-lo58qog4n3kp571far4j2nnp3fbrjoc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
